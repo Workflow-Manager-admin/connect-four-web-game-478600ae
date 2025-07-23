@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/connect-four-web-game-478600ae/four_in_line_frontend"
+}
